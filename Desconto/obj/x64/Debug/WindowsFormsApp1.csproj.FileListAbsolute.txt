@@ -1,0 +1,10 @@
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.frmCalculoDesconto.resources
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\gustavo.rssilva3\source\exercicios\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
