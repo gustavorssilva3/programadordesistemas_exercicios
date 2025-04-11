@@ -1,0 +1,10 @@
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\bin\x64\Debug\SlideBar.exe.config
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\bin\x64\Debug\SlideBar.exe
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\bin\x64\Debug\SlideBar.pdb
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.Properties.Resources.resources
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.csproj.GenerateResource.cache
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.exe
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.pdb
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\source\repos\SlideBar\obj\x64\Debug\SlideBar.frmSideBar.resources
